@@ -1,4 +1,8 @@
 # pig-game
+
+You can play game at:
+http://htmlpreview.github.io/?https://github.com/vishalkuvalekar/pig-game/blob/master/index.html
+
 https://en.wikipedia.org/wiki/Pig_(dice_game)
 
 Each turn, a player repeatedly rolls a dice until either a 1 is rolled or the player decides to "hold":
